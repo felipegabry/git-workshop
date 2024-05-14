@@ -56,6 +56,7 @@ Vamos corrigir esse problema!
 6. Crie um commit com a mensagem `feat: fix lesson-3 typo` usando o comando `git commit -m "feat: fix lesson-3 typo"`. Mas para isso, se lembre de adicionar a alteração realizada, com o comando `git add`.
 7. Podemos visualizar o histórico de commits usando o comando `git log` ou `git log --oneline` (eu sempr prefiro o --one-line).
 8. Com as mudanças realizadas localmente, precisamos enviar elas para o repositório remoto. Para isso, basta executar `git push origin lesson-3`.
+9. Para o caso de cometermos algum erro na mensagem de commit, podemos usar o comando `git commit --amend` para editar a mensagem.
 
 --- 
 
